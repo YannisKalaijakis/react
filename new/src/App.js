@@ -65,7 +65,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           <br>{this.responseJson}</br>
-          To get started, edit <code>src/App.js</code> and save to reload.
+          {/*To get started, edit <code>src/App.js</code> and save to reload.*/}
         </p>
       </div>
     );
