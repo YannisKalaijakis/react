@@ -56,9 +56,9 @@ class App extends Component {
         <div className="row">
           {/*layout={layout}*/}
           <ReactGridLayout className="layout"  cols={12} rowHeight={30} width={1200}> 
-            <div key="a">a</div>
-            <div key="b">b</div>
-            <div key="c">c</div>
+            <div key="a"></div>
+            <div key="b"></div>
+            <div key="c"></div>
           </ReactGridLayout>
           {/*<div className="col-3">{this.state.products}</div> */}
           <div className="col-9">...</div> 
